@@ -14,5 +14,5 @@ def main():
         if ltr.isalpha():
             print(f"The '{ltr}' character was found {ltr_freq[ltr]} times")
     print("--- End report ---")
-
+ 
 main()
